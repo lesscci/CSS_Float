@@ -1,0 +1,25 @@
+header{
+    background-color: red;      
+    height: 20vh;
+}
+nav{
+    background-color: blue;
+    height: 5vh;
+}
+section{
+background-color: pink;
+height: 70vh;
+width: 48%;
+float: left;
+}
+aside{
+background-color: rgb(250, 154, 170);
+height: 70vh;
+width: 48%; 
+float: right;
+}
+footer{
+background-color: green;
+height: 5vh;
+clear: both;
+}
